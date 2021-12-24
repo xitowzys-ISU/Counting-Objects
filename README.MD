@@ -4,3 +4,12 @@
 
 ## Демонстрация работы
 
+| Два вида объектов (Прямоугольник и откусанный прямоугольник) |
+| ------------------------------------------------------------ |
+| ![2 вида объектов](https://gitlab.com/ISU-Applied-Computer-Science/5th-semester/computer-vision/Counting-objects/-/raw/main/raw/demo_1.png?inline=false) |
+
+| Результаты |
+| ------------------------------------------------------------ |
+| ![Результаты](https://gitlab.com/ISU-Applied-Computer-Science/5th-semester/computer-vision/Counting-objects/-/raw/main/raw/demo_2.png?inline=false) |
+
+
